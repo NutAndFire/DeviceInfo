@@ -4,7 +4,7 @@
   <ProtectedClient>Enabled</ProtectedClient>
   <MappedFolders>
     <MappedFolder>
-      <HostFolder>C:\Users\Public\Downloads\DeviceInfo</HostFolder>
+      <HostFolder>C:\Users\Public\Downloads\SBDeviceInfo</HostFolder>
       <SandboxFolder>C:\Users\{USERNAME}\Downloads</SandboxFolder>
       <ReadOnly>false</ReadOnly>
     </MappedFolder>
