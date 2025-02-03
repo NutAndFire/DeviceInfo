@@ -14,7 +14,7 @@
     <ComponentGroup Id="ProductComponents" Directory="INSTALLFOLDER">
 	  <!-- Main executable -->
 	  <Component Id="DeviceInfo.exe" Guid="3c436ef1-a361-494c-bbbb-4e357cc653ff">
-	    <File Source="C:\Users\{USERNAME}\Downloads\DeviceInfo.exe" KeyPath="yes" />
+	    <File Source="C:\Users\WDAGUtilityAccount\Downloads\DeviceInfo.exe" KeyPath="yes" />
 	  </Component>
     </ComponentGroup>
 
