@@ -14,7 +14,7 @@
     <ComponentGroup Id="ProductComponents" Directory="INSTALLFOLDER">
 	  <!-- Main executable -->
 	  <Component Id="TPMStatus.exe" Guid="9ebe13a2-081f-44f4-ac78-19ce1a846842">
-	    <File Source="C:\Users\{USERNAME}\Downloads\TPMStatus.exe" KeyPath="yes" />
+	    <File Source="C:\Users\WDAGUtilityAccount\Downloads\TPMStatus.exe" KeyPath="yes" />
 	  </Component>
 
 	  <!-- Auto-start registry key -->
