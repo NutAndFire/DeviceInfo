@@ -5,11 +5,11 @@
   <MappedFolders>
     <MappedFolder>
       <HostFolder>C:\Users\Public\Downloads\SBDeviceInfo</HostFolder>
-      <SandboxFolder>C:\Users\{USERNAME}\Downloads</SandboxFolder>
+      <SandboxFolder>C:\Users\WDAGUtilityAccount\Downloads</SandboxFolder>
       <ReadOnly>false</ReadOnly>
     </MappedFolder>
   </MappedFolders>
   <LogonCommand>
-    <Command>cmd.exe /k start cmd.exe /c C:\Users\{USERNAME}\Downloads\Install.cmd</Command>
+    <Command>cmd.exe /k start cmd.exe /c C:\Users\WDAGUtilityAccount\Downloads\Install.cmd</Command>
   </LogonCommand>
 </Configuration>
